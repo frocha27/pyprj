@@ -10,5 +10,5 @@ Author: Frederic Rocha
 2. Bluetooth
 3. Sigfox
 
-![Bergstrom](/bergstromlogo.jpg "Bergstrom Logo")
+![Bergstrom](bersgstromlogo.jpg  "Bergstrom Logo")
 An [Berg Website](http://bergstrominc.com/ "Bergstrom")
