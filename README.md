@@ -13,4 +13,4 @@ Author: Frederic Rocha
 ---
 
 ![Bergstrom](bersgstromlogo.jpg  "Bergstrom Logo")  
-An [Bergstrom Website](http://bergstrominc.com/ "Bergstrom")
+Visit Bergstrom Website [here](http://bergstrominc.com/ "Bergstrom")
