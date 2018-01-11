@@ -1,5 +1,5 @@
 # SMARTHVAC #
----
+
 
 This is the first IoT project for smart SMARTHVAC  
 Company: Bergstrom Inc.  
@@ -10,5 +10,7 @@ Author: Frederic Rocha
 2. Bluetooth
 3. Sigfox
 
-![Bergstrom](bersgstromlogo.jpg  "Bergstrom Logo")
-An [Berg Website](http://bergstrominc.com/ "Bergstrom")
+---
+
+![Bergstrom](bersgstromlogo.jpg  "Bergstrom Logo")  
+An [Bergstrom Website](http://bergstrominc.com/ "Bergstrom")
